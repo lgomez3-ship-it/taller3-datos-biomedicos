@@ -16,3 +16,11 @@
 [2026-11-19 15:43:40] Consulta MongoDB: se encontraron 30 registros con spo2 menor a 94.
 [2026-11-19 15:43:40] Se exportaron las consultas de MongoDB a resultados_mongo.json.
 [2026-11-19 15:43:54] Cierre del programa.
+[2026-11-19 16:51:56] Inicio de ejecucion del programa.
+[2026-11-19 16:51:58] Se importaron 50 registros validos desde JSON.
+[2026-11-19 17:02:21] Inicio de ejecucion del programa.
+[2026-11-19 17:02:23] Se importaron 50 registros validos desde JSON.
+[2026-11-19 17:02:30] Registros ordenados por frecuencia cardiaca.
+[2026-11-19 17:03:03] Estructura de carpetas verificada y creada.
+[2026-11-19 17:03:03] Se exportaron y organizaron 50 registros en TXT, CSV y JSON.
+[2026-11-19 17:03:12] Cierre del programa.
