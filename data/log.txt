@@ -1,0 +1,18 @@
+[2026-11-18 22:10:11] Inicio de ejecucion del programa.
+[2026-11-18 22:10:21] Se generaron 50 registros aleatorios.
+[2026-11-18 22:17:17] Registros ordenados por frecuencia cardiaca.
+[2026-11-19 15:23:26] Error al subir registros a MongoDB: The DNS query name does not exist: _mongodb._tcp.cluster0.1rncloa.mongodb.net.
+[2026-11-19 15:24:55] Error al subir registros a MongoDB: The DNS query name does not exist: _mongodb._tcp.cluster0.1rncloa.mongodb.net.
+[2026-11-19 15:28:27] Inicio de ejecucion del programa.
+[2026-11-19 15:28:30] Se generaron 50 registros aleatorios.
+[2026-11-19 15:28:43] Se subieron 50 registros a MongoDB Atlas.
+[2026-11-19 15:43:02] Inicio de ejecucion del programa.
+[2026-11-19 15:43:04] Se generaron 50 registros aleatorios.
+[2026-11-19 15:43:06] Registros ordenados por frecuencia cardiaca.
+[2026-11-19 15:43:13] Estructura de carpetas verificada y creada.
+[2026-11-19 15:43:13] Se exportaron y organizaron 50 registros en TXT, CSV y JSON.
+[2026-11-19 15:43:27] Se subieron 50 registros a MongoDB Atlas.
+[2026-11-19 15:43:35] Consulta MongoDB: promedio de frecuencia cardiaca = 93.8 ppm.
+[2026-11-19 15:43:40] Consulta MongoDB: se encontraron 30 registros con spo2 menor a 94.
+[2026-11-19 15:43:40] Se exportaron las consultas de MongoDB a resultados_mongo.json.
+[2026-11-19 15:43:54] Cierre del programa.
